@@ -1,1 +1,3 @@
-modified the alex file for 3nd time
+this is the 3rd commit of alex file
+and ya i am very happy to say that i learned about the git and github
+
