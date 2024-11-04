@@ -1,2 +1,4 @@
 This is bob
 How are you?
+Right now are this file is the staged file
+I am modified in the staged 
